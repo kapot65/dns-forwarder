@@ -1,0 +1,4 @@
+docker==3.5.0
+python-hosts==0.4.1
+logzero==1.5.0
+dumb-init==1.2.2
